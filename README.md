@@ -164,7 +164,7 @@ Create a new JSON file (e.g., `GATE_CS_2024.json`) following this schema:
 
 ### 2. Place the File
 
-Move your JSON file to the project root directory (e.g., `c:\Users\kaush\Downloads\ProjectsCode\Exam\`).
+Move your JSON file to the project root directory (e.g., `./`).
 
 ### 3. Register the Exam in the Frontend
 
