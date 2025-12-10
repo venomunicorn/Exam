@@ -1,0 +1,530 @@
+{
+    "exam_id": "GATE_CSE",
+    "paper_id": "GATE_CSE_2023_SET1",
+    "year": 2023,
+    "label": "GATE CSE 2023 Set 1",
+    "type": "PYQ",
+    "duration_minutes": 180,
+    "total_marks": 100,
+    "sections": [
+        {
+            "section_id": "GA",
+            "title": "General Aptitude",
+            "order": 1,
+            "questions": [
+                {
+                    "question_id": "GA_Q1",
+                    "index": 1,
+                    "type": "mcq_single",
+                    "question_text": "Select the most appropriate option to complete the sentence: The professor's explanation was so _______ that even the most complex concepts became easy to understand.",
+                    "image": null,
+                    "options": [
+                        "convoluted",
+                        "lucid",
+                        "ambiguous",
+                        "verbose"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 1
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 1,
+                        "marks_incorrect": -0.33,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Verbal Ability",
+                        "Vocabulary"
+                    ],
+                    "difficulty": "easy",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "GA"
+                    ]
+                },
+                {
+                    "question_id": "GA_Q2",
+                    "index": 2,
+                    "type": "mcq_single",
+                    "question_text": "If 2^x = 3^y = 12^z, then which of the following is true?",
+                    "image": null,
+                    "options": [
+                        "z = xy/(x+2y)",
+                        "z = xy/(2x+y)",
+                        "z = 2xy/(x+2y)",
+                        "z = 2xy/(2x+y)"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 0
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 1,
+                        "marks_incorrect": -0.33,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Quantitative Aptitude",
+                        "Logarithms"
+                    ],
+                    "difficulty": "medium",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "GA"
+                    ]
+                },
+                {
+                    "question_id": "GA_Q3",
+                    "index": 3,
+                    "type": "nat",
+                    "question_text": "A train travels from station A to station B at 60 km/h and returns at 40 km/h. What is the average speed (in km/h) for the entire journey?",
+                    "image": null,
+                    "options": [],
+                    "correct_answer": {
+                        "type": "nat",
+                        "accepted_ranges": [
+                            {
+                                "min": 47.9,
+                                "max": 48.1
+                            }
+                        ]
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 2,
+                        "marks_incorrect": 0,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Quantitative Aptitude",
+                        "Speed and Distance"
+                    ],
+                    "difficulty": "medium",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "GA"
+                    ]
+                },
+                {
+                    "question_id": "GA_Q4",
+                    "index": 4,
+                    "type": "mcq_single",
+                    "question_text": "In a certain code language, 'COMPUTER' is written as 'RFUVQNPC'. How will 'PROGRAM' be written in that code?",
+                    "image": null,
+                    "options": [
+                        "QSPHSBN",
+                        "SHQFSBO",
+                        "QSPHSBO",
+                        "SHQFSBN"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 2
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 1,
+                        "marks_incorrect": -0.33,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Logical Reasoning",
+                        "Coding-Decoding"
+                    ],
+                    "difficulty": "medium",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "GA"
+                    ]
+                },
+                {
+                    "question_id": "GA_Q5",
+                    "index": 5,
+                    "type": "mcq_single",
+                    "question_text": "Which of the following graphs represents a function that is both one-to-one and onto from R to R?",
+                    "image": null,
+                    "options": [
+                        "y = x²",
+                        "y = x³",
+                        "y = sin(x)",
+                        "y = |x|"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 1
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 2,
+                        "marks_incorrect": -0.66,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Quantitative Aptitude",
+                        "Functions"
+                    ],
+                    "difficulty": "medium",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "GA"
+                    ]
+                }
+            ]
+        },
+        {
+            "section_id": "CS",
+            "title": "Computer Science and Information Technology",
+            "order": 2,
+            "questions": [
+                {
+                    "question_id": "CS_Q1",
+                    "index": 6,
+                    "type": "mcq_single",
+                    "question_text": "Let A be a 3 × 3 matrix with eigenvalues 1, 2, and 3. What is the trace of A² + 2A?",
+                    "image": null,
+                    "options": [
+                        "18",
+                        "20",
+                        "22",
+                        "26"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 3
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 1,
+                        "marks_incorrect": -0.33,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Linear Algebra",
+                        "Eigenvalues"
+                    ],
+                    "difficulty": "medium",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                },
+                {
+                    "question_id": "CS_Q2",
+                    "index": 7,
+                    "type": "mcq_single",
+                    "question_text": "Which of the following is NOT a valid property of a B+ tree?",
+                    "image": null,
+                    "options": [
+                        "All leaves are at the same level",
+                        "Internal nodes store only keys",
+                        "Each leaf node contains a pointer to the next leaf",
+                        "Root must have at least 2 children (except when it is a leaf)"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 1
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 1,
+                        "marks_incorrect": -0.33,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Data Structures",
+                        "Trees",
+                        "B+ Trees"
+                    ],
+                    "difficulty": "easy",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                },
+                {
+                    "question_id": "CS_Q3",
+                    "index": 8,
+                    "type": "mcq_multi",
+                    "question_text": "Which of the following statements about deadlocks are TRUE? (Select all that apply)",
+                    "image": null,
+                    "options": [
+                        "Deadlock prevention eliminates the possibility of deadlock by ensuring at least one of the necessary conditions cannot hold",
+                        "Deadlock avoidance uses the banker's algorithm to decide if a request should be granted",
+                        "Deadlock detection requires preemption of resources",
+                        "All four conditions (mutual exclusion, hold and wait, no preemption, circular wait) are necessary for deadlock"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_multi",
+                        "correct_option_indices": [
+                            0,
+                            1,
+                            3
+                        ]
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 2,
+                        "marks_incorrect": -0.66,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Operating Systems",
+                        "Deadlocks"
+                    ],
+                    "difficulty": "medium",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                },
+                {
+                    "question_id": "CS_Q4",
+                    "index": 9,
+                    "type": "nat",
+                    "question_text": "Consider a hash table of size 11 with open addressing and linear probing. The hash function is h(k) = k mod 11. If keys 31, 22, 4, 15, 28, 17, 88, 59 are inserted in this order, how many probes are needed to insert key 59?",
+                    "image": null,
+                    "options": [],
+                    "correct_answer": {
+                        "type": "nat",
+                        "accepted_ranges": [
+                            {
+                                "min": 6,
+                                "max": 6
+                            }
+                        ]
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 2,
+                        "marks_incorrect": 0,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Data Structures",
+                        "Hashing"
+                    ],
+                    "difficulty": "hard",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                },
+                {
+                    "question_id": "CS_Q5",
+                    "index": 10,
+                    "type": "mcq_single",
+                    "question_text": "Consider the grammar: S → aS | bA | ε, A → bA | a. Which of the following strings is in L(G)?",
+                    "image": null,
+                    "options": [
+                        "aba",
+                        "abba",
+                        "aab",
+                        "bba"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 3
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 1,
+                        "marks_incorrect": -0.33,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Theory of Computation",
+                        "Context-Free Grammars"
+                    ],
+                    "difficulty": "medium",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                },
+                {
+                    "question_id": "CS_Q6",
+                    "index": 11,
+                    "type": "mcq_single",
+                    "question_text": "What is the time complexity of finding the diameter of a tree with n nodes using BFS/DFS?",
+                    "image": null,
+                    "options": [
+                        "O(n)",
+                        "O(n log n)",
+                        "O(n²)",
+                        "O(n³)"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 0
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 1,
+                        "marks_incorrect": -0.33,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Algorithms",
+                        "Graph Algorithms",
+                        "Trees"
+                    ],
+                    "difficulty": "easy",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                },
+                {
+                    "question_id": "CS_Q7",
+                    "index": 12,
+                    "type": "nat",
+                    "question_text": "The minimum number of flip-flops required to construct a counter that counts in the sequence 0, 1, 2, 3, 4, 5, 0, 1, 2, ... is ___.",
+                    "image": null,
+                    "options": [],
+                    "correct_answer": {
+                        "type": "nat",
+                        "accepted_ranges": [
+                            {
+                                "min": 3,
+                                "max": 3
+                            }
+                        ]
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 1,
+                        "marks_incorrect": 0,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Digital Logic",
+                        "Sequential Circuits",
+                        "Counters"
+                    ],
+                    "difficulty": "easy",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                },
+                {
+                    "question_id": "CS_Q8",
+                    "index": 13,
+                    "type": "mcq_single",
+                    "question_text": "In a pipelined processor, a data hazard occurs when:",
+                    "image": null,
+                    "options": [
+                        "Two instructions try to access the same memory location",
+                        "An instruction depends on the result of a previous instruction still in the pipeline",
+                        "A branch instruction changes the program counter",
+                        "The instruction cache misses"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 1
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 1,
+                        "marks_incorrect": -0.33,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Computer Organization",
+                        "Pipelining",
+                        "Hazards"
+                    ],
+                    "difficulty": "easy",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                },
+                {
+                    "question_id": "CS_Q9",
+                    "index": 14,
+                    "type": "mcq_single",
+                    "question_text": "Consider the relation R(A, B, C, D) with functional dependencies: A → B, B → C, C → D. What is the highest normal form of this relation?",
+                    "image": null,
+                    "options": [
+                        "1NF",
+                        "2NF",
+                        "3NF",
+                        "BCNF"
+                    ],
+                    "correct_answer": {
+                        "type": "mcq_single",
+                        "correct_option_index": 1
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 2,
+                        "marks_incorrect": -0.66,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Database Systems",
+                        "Normalization",
+                        "Functional Dependencies"
+                    ],
+                    "difficulty": "hard",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                },
+                {
+                    "question_id": "CS_Q10",
+                    "index": 15,
+                    "type": "nat",
+                    "question_text": "In a TCP connection, the initial sequence number is 1000. After sending 500 bytes of data and receiving an ACK, the sender's sequence number becomes ___.",
+                    "image": null,
+                    "options": [],
+                    "correct_answer": {
+                        "type": "nat",
+                        "accepted_ranges": [
+                            {
+                                "min": 1500,
+                                "max": 1500
+                            }
+                        ]
+                    },
+                    "marks_scheme": {
+                        "marks_correct": 2,
+                        "marks_incorrect": 0,
+                        "marks_unattempted": 0
+                    },
+                    "topics": [
+                        "Computer Networks",
+                        "TCP/IP",
+                        "Transport Layer"
+                    ],
+                    "difficulty": "medium",
+                    "tags": [
+                        "PYQ",
+                        "GATE",
+                        "2023",
+                        "CS"
+                    ]
+                }
+            ]
+        }
+    ]
+}

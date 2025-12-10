@@ -1,0 +1,2207 @@
+{
+  "exam_id": "GATE_DA",
+  "paper_id": "GATE_DA_2024_S1",
+  "year": 2024,
+  "label": "GATE DA 2024 Session 1",
+  "type": "PYQ",
+  "duration_minutes": 180,
+  "total_marks": 100,
+  "sections": [
+    {
+      "section_id": "GA",
+      "title": "General Aptitude",
+      "order": 1,
+      "questions": [
+        {
+          "question_id": "GA_Q1",
+          "index": 1,
+          "type": "mcq_single",
+          "question_text": "If '→' denotes increasing order of intensity, then the meaning of the words [sick → infirm → moribund] is analogous to [silly → _______ → daft]. Which one of the given options is appropriate to fill the blank?",
+          "image": null,
+          "options": [
+            "frown",
+            "fawn",
+            "vein",
+            "vain"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 3
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Verbal Ability",
+            "Analogies"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "GA_Q2",
+          "index": 2,
+          "type": "mcq_single",
+          "question_text": "The 15 parts of the given figure are to be painted such that no two adjacent parts with shared boundaries (excluding corners) have the same color. The minimum number of colors required is",
+          "image": "DA24S1_Q2.png",
+          "options": [
+            "4",
+            "3",
+            "5",
+            "6"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Logical Reasoning",
+            "Graph Coloring"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "GA_Q3",
+          "index": 3,
+          "type": "mcq_single",
+          "question_text": "How many 4-digit positive integers divisible by 3 can be formed using only the digits {1, 3, 4, 6, 7}, such that no digit appears more than once in a number?",
+          "image": null,
+          "options": [
+            "24",
+            "48",
+            "72",
+            "12"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Combinatorics"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "GA_Q4",
+          "index": 4,
+          "type": "mcq_single",
+          "question_text": "The sum of the following infinite series is 2 + 1/2 + 1/3 + 1/4 + 1/8 + 1/9 + 1/16 + 1/27 + ⋯",
+          "image": null,
+          "options": [
+            "11/3",
+            "7/2",
+            "13/4",
+            "9/2"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Series"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "GA_Q5",
+          "index": 5,
+          "type": "mcq_single",
+          "question_text": "In an election, the share of valid votes received by the four candidates A, B, C, and D is represented by the pie chart shown. The total number of votes cast in the election were 1,15,000, out of which 5,000 were invalid. Based on the data provided, the total number of valid votes received by the candidates B and C is",
+          "image": "DA24S1_Q5.png",
+          "options": [
+            "45,000",
+            "49,500",
+            "51,750",
+            "54,000"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Percentages"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "GA_Q6",
+          "index": 6,
+          "type": "mcq_single",
+          "question_text": "Thousands of years ago, some people began dairy farming. This coincided with a number of mutations in a particular gene that resulted in these people developing the ability to digest dairy milk. Based on the given passage, which of the following can be inferred?",
+          "image": null,
+          "options": [
+            "All human beings can digest dairy milk.",
+            "No human being can digest dairy milk.",
+            "Digestion of dairy milk is essential for human beings.",
+            "In human beings, digestion of dairy milk resulted from a mutated gene."
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 3
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Verbal Ability",
+            "Reading Comprehension"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "GA_Q7",
+          "index": 7,
+          "type": "mcq_single",
+          "question_text": "The probability of a boy or a girl being born is 1/2. For a family having only three children, what is the probability of having two girls and one boy?",
+          "image": null,
+          "options": [
+            "3/8",
+            "1/8",
+            "1/4",
+            "1/2"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Probability"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "GA_Q8",
+          "index": 8,
+          "type": "mcq_single",
+          "question_text": "Person 1 and Person 2 invest in three mutual funds A, B, and C. The amounts they invest in each of these mutual funds are given in the table. At the end of one year, the total amount that Person 1 gets is ₹500 more than Person 2. The annual rate of return for the mutual funds B and C is 15% each. What is the annual rate of return for the mutual fund A? [Person 1: A=₹10,000, B=₹20,000, C=₹20,000; Person 2: A=₹20,000, B=₹15,000, C=₹15,000]",
+          "image": null,
+          "options": [
+            "7.5%",
+            "10%",
+            "15%",
+            "20%"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Profit and Loss"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "GA_Q9",
+          "index": 9,
+          "type": "mcq_single",
+          "question_text": "Three different views of a dice are shown in the figure below. The piece of paper that can be folded to make this dice is",
+          "image": "DA24S1_Q9.png",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Spatial Reasoning",
+            "Visual Reasoning"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "GA_Q10",
+          "index": 10,
+          "type": "mcq_single",
+          "question_text": "Visualize two identical right circular cones such that one is inverted over the other and they share a common circular base. If a cutting plane passes through the vertices of the assembled cones, what shape does the outer boundary of the resulting cross-section make?",
+          "image": null,
+          "options": [
+            "A rhombus",
+            "A triangle",
+            "An ellipse",
+            "A hexagon"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Spatial Reasoning",
+            "Geometry"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "DA",
+      "title": "Data Science and Artificial Intelligence",
+      "order": 2,
+      "questions": [
+        {
+          "question_id": "DA_Q11",
+          "index": 11,
+          "type": "mcq_single",
+          "question_text": "Consider the following statements: (i) The mean and variance of a Poisson random variable are equal. (ii) For a standard normal random variable, the mean is zero and the variance is one. Which ONE of the following options is correct?",
+          "image": null,
+          "options": [
+            "Both (i) and (ii) are true",
+            "(i) is true and (ii) is false",
+            "(ii) is true and (i) is false",
+            "Both (i) and (ii) are false"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Statistics"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q12",
+          "index": 12,
+          "type": "mcq_single",
+          "question_text": "Three fair coins are tossed independently. T is the event that two or more tosses result in heads. S is the event that two or more tosses result in tails. What is the probability of the event T∩S?",
+          "image": null,
+          "options": [
+            "0",
+            "0.5",
+            "0.25",
+            "1"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Set Theory"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q13",
+          "index": 13,
+          "type": "mcq_single",
+          "question_text": "Consider the matrix M = [2, -1; 3, 1]. Which ONE of the following statements is TRUE?",
+          "image": null,
+          "options": [
+            "The eigenvalues of M are non-negative and real.",
+            "The eigenvalues of M are complex conjugate pairs.",
+            "One eigenvalue of M is positive and real, and another eigenvalue of M is zero.",
+            "One eigenvalue of M is non-negative and real, and another eigenvalue of M is negative and real."
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Eigenvalues"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q14",
+          "index": 14,
+          "type": "mcq_single",
+          "question_text": "Consider performing depth-first search (DFS) on an undirected and unweighted graph G starting at vertex s. For any vertex u in G, d[u] is the length of the shortest path from s to u. Let (u, v) be an edge in G such that d[u] < d[v]. If the edge (u, v) is explored first in the direction from u to v during the above DFS, then (u, v) becomes a ______ edge.",
+          "image": null,
+          "options": [
+            "tree",
+            "cross",
+            "back",
+            "gray"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Graph Theory",
+            "DFS"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q15",
+          "index": 15,
+          "type": "mcq_single",
+          "question_text": "For any twice differentiable function f: ℝ→ℝ, if at some x*∈ℝ, f'(x*) = 0 and f''(x*) > 0, then the function f necessarily has a ______ at x = x*.",
+          "image": null,
+          "options": [
+            "local minimum",
+            "global minimum",
+            "local maximum",
+            "global maximum"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Optimization"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q16",
+          "index": 16,
+          "type": "mcq_single",
+          "question_text": "Match the items in Column 1 with the items in Column 2: (p) First In First Out, (q) Lookup Operation, (r) Last In First Out with (i) Stacks, (ii) Queues, (iii) Hash Tables",
+          "image": null,
+          "options": [
+            "(p) − (ii), (q) − (iii), (r) − (i)",
+            "(p) − (ii), (q) − (i), (r) − (iii)",
+            "(p) − (i), (q) − (ii), (r) − (iii)",
+            "(p) − (i), (q) − (iii), (r) − (ii)"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Data Structures",
+            "Stacks and Queues"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q17",
+          "index": 17,
+          "type": "mcq_single",
+          "question_text": "Consider the dataset with six datapoints: {(x₁, y₁),(x₂,y₂),…, (x₆,y₆)}, where x₁=[1,0], x₂=[0,1], x₃=[0,-1], x₄=[-1,0], x₅=[2,2], x₆=[-2,-2] and the labels are given by y₁=y₂=y₅=1, and y₃=y₄=y₆=-1. A hard margin linear support vector machine is trained on the above dataset. Which ONE of the following sets is a possible set of support vectors?",
+          "image": null,
+          "options": [
+            "{x₁, x₂, x₅}",
+            "{x₃, x₄, x₅}",
+            "{x₄, x₅}",
+            "{x₁, x₂, x₃, x₄}"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 3
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "SVM"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q18",
+          "index": 18,
+          "type": "mcq_single",
+          "question_text": "Match the items: (p) Principal Component Analysis, (q) Naïve Bayes Classification, (r) Logistic Regression with (i) Discriminative Model, (ii) Dimensionality Reduction, (iii) Generative Model",
+          "image": null,
+          "options": [
+            "(p) − (iii), (q) − (i), (r) − (ii)",
+            "(p) − (ii), (q) − (i), (r) − (iii)",
+            "(p) − (ii), (q) − (iii), (r) − (i)",
+            "(p) − (iii), (q) − (ii), (r) − (i)"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Classification"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q19",
+          "index": 19,
+          "type": "mcq_single",
+          "question_text": "Euclidean distance based k-means clustering algorithm was run on a dataset of 100 points with k=3. If the points [1,1] and [-1,1] are both part of cluster 3, then which ONE of the following points is necessarily also part of cluster 3?",
+          "image": null,
+          "options": [
+            "[0,0]",
+            "[0,2]",
+            "[2,0]",
+            "[0,1]"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 3
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Clustering"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q20",
+          "index": 20,
+          "type": "mcq_single",
+          "question_text": "Given a dataset with K binary-valued attributes (where K > 2) for a two-class classification task, the number of parameters to be estimated for learning a naïve Bayes classifier is",
+          "image": null,
+          "options": [
+            "2K + 1",
+            "2^K + 1",
+            "2^(K+1) + 1",
+            "K^2 + 1"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Naive Bayes"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q21",
+          "index": 21,
+          "type": "mcq_single",
+          "question_text": "Consider performing uniform hashing on an open address hash table with load factor α = n/m < 1, where n elements are stored in the table with m slots. The expected number of probes in an unsuccessful search is at most 1/(1−α). Inserting an element in this hash table requires at most ______ probes, on average.",
+          "image": null,
+          "options": [
+            "ln(1/(1−α))",
+            "1/(1−α)",
+            "1 + α/2",
+            "1/(1+α)"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Data Structures",
+            "Hashing"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q22",
+          "index": 22,
+          "type": "mcq_single",
+          "question_text": "For any binary classification dataset, let S_B∈ℝ^(d×d) and S_W∈ℝ^(d×d) be the between-class and within-class scatter (covariance) matrices, respectively. The Fisher linear discriminant is defined by u*∈ℝ^d, that maximizes J(u) = u^T S_B u / u^T S_W u. If λ = J(u*), S_W is non-singular and S_B≠0, then (u*, λ) must satisfy which ONE of the following equations?",
+          "image": null,
+          "options": [
+            "S_W^(-1) S_B u* = λu*",
+            "S_W u* = λS_B u*",
+            "S_B S_W u* = λu*",
+            "u*^T u* = λ^2"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Fisher LDA"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q23",
+          "index": 23,
+          "type": "mcq_single",
+          "question_text": "Let h₁ and h₂ be two admissible heuristics used in A* search. Which ONE of the following expressions is always an admissible heuristic?",
+          "image": null,
+          "options": [
+            "h₁ + h₂",
+            "h₁ × h₂",
+            "h₁/h₂, (h₂ ≠0)",
+            "|h₁ − h₂|"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 3
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Artificial Intelligence",
+            "Search Algorithms"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q24",
+          "index": 24,
+          "type": "mcq_single",
+          "question_text": "Consider five random variables U, V, W, X, and Y whose joint distribution satisfies: P(U, V, W, X, Y) = P(U)P(V)P(W|U, V)P(X|W)P(Y|W). Which ONE of the following statements is FALSE?",
+          "image": null,
+          "options": [
+            "Y is conditionally independent of V given W",
+            "X is conditionally independent of U given W",
+            "U and V are conditionally independent given W",
+            "Y and X are conditionally independent given W"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Bayesian Networks"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q25",
+          "index": 25,
+          "type": "mcq_single",
+          "question_text": "Consider the following statement: In adversarial search, α–β pruning can be applied to game trees of any depth where α is the (m) value choice we have formed so far at any choice point along the path for the MAX player and β is the (n) value choice we have formed so far at any choice point along the path for the MIN player. Which ONE of the following choices of (m) and (n) makes the above statement valid?",
+          "image": null,
+          "options": [
+            "(m) = highest, (n) = highest",
+            "(m) = lowest, (n) = highest",
+            "(m) = highest, (n) = lowest",
+            "(m) = lowest, (n) = lowest"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Artificial Intelligence",
+            "Game Theory"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q26",
+          "index": 26,
+          "type": "mcq_single",
+          "question_text": "Consider a database that includes the following relations: Defender(name, rating, side, goals), Forward(name, rating, assists, goals), Team(name, club, price). Which ONE of the following relational algebra expressions checks that every name occurring in Team appears in either Defender or Forward, where φ denotes the empty set?",
+          "image": null,
+          "options": [
+            "Π_name(Team) ∖ (Π_name(Defender) ∩ Π_name(Forward)) = φ",
+            "(Π_name(Defender) ∩ Π_name(Forward)) ∖ Π_name(Team) = φ",
+            "Π_name(Team) ∖ (Π_name(Defender) ∪ Π_name(Forward)) = φ",
+            "(Π_name(Defender) ∪ Π_name(Forward)) ∖ Π_name(Team) = φ"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Databases",
+            "Relational Algebra"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q27",
+          "index": 27,
+          "type": "mcq_single",
+          "question_text": "Let the minimum, maximum, mean and standard deviation values for the attribute income of data scientists be ₹46000, ₹170000, ₹96000, and ₹21000, respectively. The z-score normalized income value of ₹106000 is closest to which ONE of the following options?",
+          "image": null,
+          "options": [
+            "0.217",
+            "0.476",
+            "0.623",
+            "2.304"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Statistics",
+            "Data Normalization"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q28",
+          "index": 28,
+          "type": "mcq_multi",
+          "question_text": "Consider the following tree traversals on a full binary tree: (i) Preorder (ii) Inorder (iii) Postorder. Which of the following traversal options is/are sufficient to uniquely reconstruct the full binary tree?",
+          "image": null,
+          "options": [
+            "(i) and (ii)",
+            "(ii) and (iii)",
+            "(i) and (iii)",
+            "(ii) only"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              1,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Data Structures",
+            "Trees"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q29",
+          "index": 29,
+          "type": "mcq_multi",
+          "question_text": "Let x and y be two propositions. Which of the following statements is a tautology/are tautologies?",
+          "image": null,
+          "options": [
+            "(¬x ∧ y) ⟹ (y ⟹ x)",
+            "(x ∧ ¬y) ⟹ (¬x ⟹ y)",
+            "(¬x ∧ y) ⟹ (¬x ⟹ y)",
+            "(x ∧ ¬y) ⟹ (y ⟹ x)"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              2,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.3333333333333333,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Discrete Mathematics",
+            "Logic"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q30",
+          "index": 30,
+          "type": "nat",
+          "question_text": "Consider sorting the following array of integers in ascending order using an in-place Quicksort algorithm that uses the last element as the pivot: [60, 70, 80, 90, 100]. The minimum number of swaps performed during this Quicksort is ______.",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0,
+                "max": 0
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Algorithms",
+            "Sorting"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q31",
+          "index": 31,
+          "type": "nat",
+          "question_text": "Consider the following two tables named Raider and Team in a relational database maintained by a Kabaddi league. The SQL query 'SELECT * FROM Raider, Team WHERE Raider.ID=Team.ID AND City=\"Jaipur\" AND RaidPoints > 200;' is executed. The number of rows returned by this query is ______.",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 3,
+                "max": 3
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Databases",
+            "SQL"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q32",
+          "index": 32,
+          "type": "nat",
+          "question_text": "The fundamental operations in a double-ended queue D are: insertFirst(e), insertLast(e), removeFirst(), removeLast(). In an empty double-ended queue, the following operations are performed: insertFirst(10), insertLast(32), a←removeFirst(), insertLast(28), insertLast(17), a←removeFirst(), a←removeLast(). The value of a is ______.",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 17,
+                "max": 17
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Data Structures",
+            "Deque"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q33",
+          "index": 33,
+          "type": "nat",
+          "question_text": "Let f:ℝ→ℝ be the function f(x) = 1/(1+e^(-x)). The value of the derivative of f at x where f(x) = 0.4 is ______ (rounded off to two decimal places).",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.24,
+                "max": 0.24
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Differentiation"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q34",
+          "index": 34,
+          "type": "nat",
+          "question_text": "The sample average of 50 data points is 40. The updated sample average after including a new data point taking the value of 142 is ______.",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 42,
+                "max": 42
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Statistics",
+            "Mean"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q35",
+          "index": 35,
+          "type": "nat",
+          "question_text": "Consider the 3 × 3 matrix M = [[1, 2, 3], [3, 1, 3], [4, 3, 6]]. The determinant of (M² + 12M) is ______.",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0,
+                "max": 0
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Determinants"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q36",
+          "index": 36,
+          "type": "mcq_single",
+          "question_text": "A fair six-sided die (with faces numbered 1, 2, 3, 4, 5, 6) is repeatedly thrown independently. What is the expected number of times the die is thrown until two consecutive throws of even numbers are seen?",
+          "image": null,
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Expected Value"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q37",
+          "index": 37,
+          "type": "mcq_single",
+          "question_text": "Let f:ℝ→ℝ be a function: f(x) = {-x if x<-2; ax²+bx+c if x∈[-2,2]; x if x>2}. Which ONE of the following choices gives the values of a, b, c that make the function f continuous and differentiable?",
+          "image": null,
+          "options": [
+            "a = 1/4, b = 0, c = 1",
+            "a = 1/2, b = 0, c = 0",
+            "a = 0, b = 0, c = 0",
+            "a = 1, b = 1, c = -4"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Continuity"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q38",
+          "index": 38,
+          "type": "mcq_single",
+          "question_text": "Consider the following Python code: def count(child_dict, i): if i not in child_dict.keys(): return 1; ans = 1; for j in child_dict[i]: ans += count(child_dict, j); return ans; child_dict = dict(); child_dict[0] = [1,2]; child_dict[1] = [3,4,5]; child_dict[2] = [6,7,8]; print(count(child_dict,0)). Which ONE of the following is the output of this code?",
+          "image": null,
+          "options": [
+            "6",
+            "1",
+            "8",
+            "9"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 3
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Programming",
+            "Recursion"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q39",
+          "index": 39,
+          "type": "mcq_single",
+          "question_text": "Consider the function computeS(X) whose pseudocode computes S[1]←1; for i←2 to length(X): S[i]←1; if X[i−1]≤X[i]: S[i]←S[i]+S[i−1]; return S. Which ONE of the following values is returned by the function computeS(X) for X = [6, 3, 5, 4, 10]?",
+          "image": null,
+          "options": [
+            "[1, 1, 2, 3, 4]",
+            "[1, 1, 2, 3, 3]",
+            "[1, 1, 2, 1, 2]",
+            "[1, 1, 2, 1, 5]"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Algorithms",
+            "Dynamic Programming"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q40",
+          "index": 40,
+          "type": "mcq_single",
+          "question_text": "Let F(n) denote the maximum number of comparisons made while searching for an entry in a sorted array of size n using binary search. Which ONE of the following options is TRUE?",
+          "image": null,
+          "options": [
+            "F(n) = F(⌊n/2⌋) + 1",
+            "F(n) = F(⌊n/2⌋) + F(⌈n/2⌉)",
+            "F(n) = F(⌊n/2⌋)",
+            "F(n) = F(n−1) + 1"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Algorithms",
+            "Binary Search"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q41",
+          "index": 41,
+          "type": "mcq_single",
+          "question_text": "Consider the following Python function: def fun(D, s1, s2): if s1 < s2: D[s1], D[s2] = D[s2], D[s1]; fun(D, s1+1, s2-1). What does this Python function fun() do?",
+          "image": null,
+          "options": [
+            "It finds the smallest element in D from index s1 to s2, both inclusive.",
+            "It performs a merge sort in-place on this list D between indices s1 and s2, both inclusive.",
+            "It reverses the list D between indices s1 and s2, both inclusive.",
+            "It swaps the elements in D at indices s1 and s2, and leaves the remaining elements unchanged."
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Programming",
+            "Python"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q42",
+          "index": 42,
+          "type": "mcq_single",
+          "question_text": "Consider the table where the (i, j)th element of the table is the distance between points x_i and x_j. Single linkage clustering is performed on data points x₁, x₂, x₃, x₄, x₅. Which ONE of the following is the correct representation of the clusters produced?",
+          "image": "DA24S1_Q42.png",
+          "options": [
+            "Option A (dendrogram)",
+            "Option B (dendrogram)",
+            "Option C (dendrogram)",
+            "Option D (dendrogram)"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Clustering"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q43",
+          "index": 43,
+          "type": "mcq_single",
+          "question_text": "Consider the two neural networks (NNs) shown in Figures 1 and 2, with ReLU activation (ReLU(z) = max{0, z}). The connections and their corresponding weights are shown in the Figures. The biases at every neuron are set to 0. For what values of p, q, r in Figure 2 are the two NNs equivalent, when x₁, x₂, x₃ are positive?",
+          "image": "DA24S1_Q43.png",
+          "options": [
+            "p = 36, q = 24, r = 24",
+            "p = 24, q = 24, r = 36",
+            "p = 18, q = 36, r = 24",
+            "p = 36, q = 36, r = 36"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Deep Learning",
+            "Neural Networks"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q44",
+          "index": 44,
+          "type": "mcq_single",
+          "question_text": "Consider a state space where the start state is number 1. The successor function for the state numbered n returns two states numbered n+1 and n+2. Assume that the states in the unexpanded state list are expanded in the ascending order of numbers and the previously expanded states are not added to the unexpanded state list. Which ONE of the following statements about breadth-first search (BFS) and depth-first search (DFS) is true, when reaching the goal state number 6?",
+          "image": null,
+          "options": [
+            "BFS expands more states than DFS.",
+            "DFS expands more states than BFS.",
+            "Both BFS and DFS expand equal number of states.",
+            "Both BFS and DFS do not reach the goal state number 6."
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Artificial Intelligence",
+            "Search Algorithms"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q45",
+          "index": 45,
+          "type": "mcq_single",
+          "question_text": "Consider the following sorting algorithms: (i) Bubble sort (ii) Insertion sort (iii) Selection sort. Which ONE among the following choices of sorting algorithms sorts the numbers in the array [4, 3, 2, 1, 5] in increasing order after exactly two passes over the array?",
+          "image": null,
+          "options": [
+            "(i) only",
+            "(iii) only",
+            "(i) and (iii) only",
+            "(ii) and (iii) only"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Algorithms",
+            "Sorting"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q46",
+          "index": 46,
+          "type": "mcq_multi",
+          "question_text": "Given the relational schema R = (U, V, W, X, Y, Z) and the set of functional dependencies: {U→V, U→W, WX→Y, WX→Z, V→X}. Which of the following functional dependencies can be derived from the above set?",
+          "image": null,
+          "options": [
+            "VW→YZ",
+            "WX→YZ",
+            "VW→U",
+            "VW→Y"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              1,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Databases",
+            "Functional Dependencies"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q47",
+          "index": 47,
+          "type": "mcq_multi",
+          "question_text": "Select all choices that are subspaces of ℝ³.",
+          "image": null,
+          "options": [
+            "{x = [x₁, x₂, x₃] ∈ ℝ³: x = α[1, 1, 0] + β[1, 0, 0], α, β ∈ ℝ}",
+            "{x = [x₁, x₂, x₃] ∈ ℝ³: x = α²[1, 2, 0] + β²[1, 0, 1], α, β ∈ ℝ}",
+            "{x = [x₁, x₂, x₃] ∈ ℝ³: 5x₁ + 2x₃ = 0, 4x₁ − 2x₂ + 3x₃ = 0}",
+            "{x = [x₁, x₂, x₃] ∈ ℝ³: 5x₁ + 2x₃ + 4 = 0}"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Vector Spaces"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q48",
+          "index": 48,
+          "type": "mcq_multi",
+          "question_text": "Which of the following statements is/are TRUE?",
+          "image": null,
+          "options": [
+            "There exist M∈ℝ³ˣ³, p∈ℝ³, and q∈ℝ³ such that Mx=p has a unique solution and Mx=q has infinite solutions.",
+            "There exist M∈ℝ³ˣ³, p∈ℝ³, and q∈ℝ³ such that Mx=p has no solutions and Mx=q has infinite solutions.",
+            "There exist M∈ℝ²ˣ³, p∈ℝ², and q∈ℝ² such that Mx=p has a unique solution and Mx=q has infinite solutions.",
+            "There exist M∈ℝ³ˣ², p∈ℝ³, and q∈ℝ³ such that Mx=p has a unique solution and Mx=q has no solutions."
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Systems of Equations"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q49",
+          "index": 49,
+          "type": "mcq_multi",
+          "question_text": "Let ℝ be the set of real numbers, U be a subspace of ℝ³ and M∈ℝ³ˣ³ be the matrix corresponding to the projection on to the subspace U. Which of the following statements is/are TRUE?",
+          "image": null,
+          "options": [
+            "If U is a 1-dimensional subspace of ℝ³, then the null space of M is a 1-dimensional subspace.",
+            "If U is a 2-dimensional subspace of ℝ³, then the null space of M is a 1-dimensional subspace.",
+            "M² = M",
+            "M³ = M"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              2,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Projections"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q50",
+          "index": 50,
+          "type": "mcq_multi",
+          "question_text": "Consider the function f: ℝ→ℝ where f(x) = x⁴/4 − 2x³/3 − 3x²/2 + 1. Which of the following statements is/are TRUE?",
+          "image": null,
+          "options": [
+            "x = 0 is a local maximum of f",
+            "x = 3 is a local minimum of f",
+            "x = −1 is a local maximum of f",
+            "x = 0 is a local minimum of f"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              1
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Optimization"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q51",
+          "index": 51,
+          "type": "mcq_multi",
+          "question_text": "Consider the directed acyclic graph (DAG). Which of the following is/are valid vertex orderings that can be obtained from a topological sort of the DAG?",
+          "image": "DA24S1_Q51.png",
+          "options": [
+            "P Q R S T U V",
+            "P R Q V S U T",
+            "P Q R S V U T",
+            "P R Q S V T U"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Graph Theory",
+            "Topological Sort"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q52",
+          "index": 52,
+          "type": "mcq_multi",
+          "question_text": "Let H, I, L, and N represent height, number of internal nodes, number of leaf nodes, and the total number of nodes respectively in a rooted binary tree. Which of the following statements is/are always TRUE?",
+          "image": null,
+          "options": [
+            "L ≤ I + 1",
+            "H + 1 ≤ N ≤ 2^(H+1) − 1",
+            "H ≤ I ≤ 2^H − 1",
+            "H ≤ L ≤ 2^H − 1"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              1,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Data Structures",
+            "Binary Trees"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q53",
+          "index": 53,
+          "type": "mcq_multi",
+          "question_text": "Consider the following figures representing datasets consisting of two-dimensional features with two classes denoted by circles and squares. Which of the following is/are TRUE?",
+          "image": "DA24S1_Q53.png",
+          "options": [
+            "(i) is linearly separable.",
+            "(ii) is linearly separable.",
+            "(iii) is linearly separable.",
+            "(iv) is linearly separable."
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Linear Separability"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q54",
+          "index": 54,
+          "type": "mcq_multi",
+          "question_text": "Let game(ball, rugby) be true if the ball is used in rugby and false otherwise. Let shape(ball, round) be true if the ball is round and false otherwise. Consider the logical sentences: s1: ∀ball ¬game(ball, rugby) ⟹ shape(ball, round); s2: ∀ball ¬shape(ball, round) ⟹ game(ball, rugby); s3: ∀ball game(ball, rugby) ⟹ ¬shape(ball, round); s4: ∀ball shape(ball, round) ⟹ ¬game(ball, rugby). Which of the following choices is/are logical representations of the assertion 'All balls are round except balls used in rugby'?",
+          "image": null,
+          "options": [
+            "s1 ∧ s3",
+            "s1 ∧ s2",
+            "s2 ∧ s3",
+            "s3 ∧ s4"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Logic",
+            "First Order Logic"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q55",
+          "index": 55,
+          "type": "mcq_multi",
+          "question_text": "An OTT company is maintaining a large disk-based relational database of different movies with the following schema: Movie(ID, CustomerRating), Genre(ID, Name), Movie_Genre(MovieID, GenreID). Consider the SQL query that finds movies with CustomerRating > 3.4 AND Genre.Name = 'Comedy' with joins. This SQL query can be sped up using which of the following indexing options?",
+          "image": null,
+          "options": [
+            "B+ tree on all the attributes.",
+            "Hash index on Genre.Name and B+ tree on the remaining attributes.",
+            "Hash index on Movie.CustomerRating and B+ tree on the remaining attributes.",
+            "Hash index on all the attributes."
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              1
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.6666666666666666,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Databases",
+            "Indexing"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q56",
+          "index": 56,
+          "type": "nat",
+          "question_text": "Let X be a random variable uniformly distributed in the interval [1, 3] and Y be a random variable uniformly distributed in the interval [2, 4]. If X and Y are independent of each other, the probability P(X ≥ Y) is ______ (rounded off to three decimal places).",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.125,
+                "max": 0.125
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Uniform Distribution"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q57",
+          "index": 57,
+          "type": "nat",
+          "question_text": "Let X be a random variable exponentially distributed with parameter λ > 0. The probability density function of X is given by: f_X(x) = {λe^(−λx), x ≥ 0; 0, otherwise}. If 5E(X) = Var(X), where E(X) and Var(X) indicate the expectation and variance of X, respectively, the value of λ is ______ (rounded off to one decimal place).",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.2,
+                "max": 0.2
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Exponential Distribution"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q58",
+          "index": 58,
+          "type": "nat",
+          "question_text": "Consider two events T and S. Let T̄ denote the complement of the event T. The probability associated with different events are given as follows: P(T̄) = 0.6, P(S|T) = 0.3, P(S|T̄) = 0.6. Then, P(T|S) is ______ (rounded off to two decimal places).",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.25,
+                "max": 0.25
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Bayes Theorem"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q59",
+          "index": 59,
+          "type": "nat",
+          "question_text": "Consider a joint probability density function of two random variables X and Y: f_{X,Y}(x, y) = {2xy, 0 < x < 2, 0 < y < x; 0, otherwise}. Then, E[Y|X = 1.5] is ______.",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": "MTA",
+            "notes": "Marks To All - Question was ambiguous or had errors"
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Conditional Expectation"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q60",
+          "index": 60,
+          "type": "nat",
+          "question_text": "Evaluate the following limit: lim_{x→0} [ln((x² + 1)cos x) / x²] = ______.",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.5,
+                "max": 0.5
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Limits"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q61",
+          "index": 61,
+          "type": "nat",
+          "question_text": "Let u = [1, 2, 3, 4, 5]^T, and let σ₁, σ₂, σ₃, σ₄, σ₅ be the singular values of the matrix M = uu^T (where u^T is the transpose of u). The value of Σᵢ₌₁⁵ σᵢ is ______.",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 55,
+                "max": 55
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Singular Value Decomposition"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q62",
+          "index": 62,
+          "type": "nat",
+          "question_text": "Details of ten international cricket games between two teams 'Green' and 'Blue' are given in Table C. A cricket organization would like to use the information to develop a decision-tree model to predict outcomes of future games. To develop such a model, the computed InformationGain(C, Pitch) with respect to the Target is ______ (rounded off to two decimal places).",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.12,
+                "max": 0.13
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Decision Trees"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q63",
+          "index": 63,
+          "type": "nat",
+          "question_text": "Given the two-dimensional dataset consisting of 5 data points from two classes (circles and squares) and assume that the Euclidean distance is used to measure the distance between two points. The minimum odd value of k in k-nearest neighbor algorithm for which the diamond (⋄) shaped data point is assigned the label square is ______.",
+          "image": "DA24S1_Q63.png",
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 5,
+                "max": 5
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "KNN"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q64",
+          "index": 64,
+          "type": "nat",
+          "question_text": "Given the following Bayesian Network consisting of four Bernoulli random variables and the associated conditional probability tables. The value of P(U=1, V=1, W=1, Z=1) = ______ (rounded off to three decimal places).",
+          "image": "DA24S1_Q64.png",
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.125,
+                "max": 0.125
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Bayesian Networks"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q65",
+          "index": 65,
+          "type": "nat",
+          "question_text": "Two fair coins are tossed independently. X is a random variable that takes a value of 1 if both tosses are heads and 0 otherwise. Y is a random variable that takes a value of 1 if at least one of the tosses is heads and 0 otherwise. The value of the covariance of X and Y is ______ (rounded off to three decimal places).",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.062,
+                "max": 0.063
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Covariance"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2024",
+            "DA"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2232 @@
+{
+  "exam_id": "GATE_DA",
+  "paper_id": "GATE_DA_2025",
+  "year": 2025,
+  "label": "GATE Data Science & AI 2025",
+  "type": "PYQ",
+  "duration_minutes": 180,
+  "total_marks": 100,
+  "sections": [
+    {
+      "section_id": "GA",
+      "title": "General Aptitude",
+      "order": 1,
+      "questions": [
+        {
+          "question_id": "GA_Q1",
+          "index": 1,
+          "type": "mcq_single",
+          "question_text": "Courage : Bravery :: Yearning : __________\nSelect the most appropriate option to complete the analogy.",
+          "image": null,
+          "options": [
+            "Longing",
+            "Yelling",
+            "Yawning",
+            "Glaring"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Verbal Ability",
+            "Analogies"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        },
+        {
+          "question_id": "GA_Q2",
+          "index": 2,
+          "type": "mcq_single",
+          "question_text": "We __________ tennis in the lawn when it suddenly started to rain.\nSelect the most appropriate option to complete the above sentence.",
+          "image": null,
+          "options": [
+            "have been playing",
+            "had been playing",
+            "would have been playing",
+            "could be playing"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Verbal Ability",
+            "Grammar"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        },
+        {
+          "question_id": "GA_Q3",
+          "index": 3,
+          "type": "mcq_single",
+          "question_text": "A 4 × 4 digital image has pixel intensities (U) as shown in the figure. The number of pixels with U≤4 is:",
+          "image": "GATE_DA_2025_GA_Q3.png",
+          "options": [
+            "3",
+            "8",
+            "11",
+            "9"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Data Analysis"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        },
+        {
+          "question_id": "GA_Q4",
+          "index": 4,
+          "type": "mcq_single",
+          "question_text": "In the given figure, the numbers associated with the rectangle, triangle, and ellipse are 1, 2, and 3, respectively. Which one among the given options is the most appropriate combination of P, Q, and R?",
+          "image": "GATE_DA_2025_GA_Q4.png",
+          "options": [
+            "P = 6; Q = 5; R = 3",
+            "P = 5; Q = 6; R = 3",
+            "P = 3; Q = 6; R = 6",
+            "P = 5; Q = 3; R = 6"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Logical Reasoning",
+            "Visual Analysis"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        },
+        {
+          "question_id": "GA_Q5",
+          "index": 5,
+          "type": "mcq_single",
+          "question_text": "A rectangle has a length L and a width W, where L > W. If the width, W, is increased by 10%, which one of the following statements is correct for all values of L and W?",
+          "image": null,
+          "options": [
+            "Perimeter increases by 10%.",
+            "Length of the diagonals increases by 10%.",
+            "Area increases by 10%.",
+            "The rectangle becomes a square."
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Geometry"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        },
+        {
+          "question_id": "GA_Q6",
+          "index": 6,
+          "type": "mcq_single",
+          "question_text": "Column-I has statements made by Shanthala; and, Column-II has responses given by Kanishk.\nColumn-I:\nP. This house is in a mess.\nQ. I am not happy with the marks given to me.\nR. Politics is a subject I avoid talking about.\nS. I don't know what this word means.\n\nColumn-II:\n1. Alright, I won't bring it up during our conversations.\n2. Well, you can easily look it up.\n3. No problem, let me clear it up for you.\n4. Don't worry, I will take it up with your teacher.\n\nIdentify the option that has the correct match between Column-I and Column-II.",
+          "image": null,
+          "options": [
+            "P – 2; Q – 3; R – 1; S – 4",
+            "P – 3; Q – 4; R – 1; S – 2",
+            "P – 4; Q – 1; R – 2; S – 3",
+            "P – 1; Q – 2; R – 4; S – 3"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Verbal Ability",
+            "Matching"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        },
+        {
+          "question_id": "GA_Q7",
+          "index": 7,
+          "type": "mcq_single",
+          "question_text": "Weight of a person can be expressed as a function of their age. The function usually varies from person to person. Suppose this function is identical for two brothers, and it monotonically increases till the age of 50 years and then it monotonically decreases. Let a₁ and a₂ (in years) denote the ages of the brothers and a₁ < a₂. Which one of the following statements is correct about their age on the day when they attain the same weight?",
+          "image": null,
+          "options": [
+            "a₁ < a₂ < 50",
+            "a₁ < 50 < a₂",
+            "50 < a₁ < a₂",
+            "Either a₁ = 50 or a₂ = 50"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Logical Reasoning",
+            "Functions"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        },
+        {
+          "question_id": "GA_Q8",
+          "index": 8,
+          "type": "mcq_single",
+          "question_text": "A regular dodecagon (12-sided regular polygon) is inscribed in a circle of radius r cm as shown in the figure. The side of the dodecagon is d cm. All the triangles (numbered 1 to 12) in the figure are used to form squares of side r cm and each numbered triangle is used only once to form a square. The number of squares that can be formed and the number of triangles required to form each square, respectively, are:",
+          "image": "GATE_DA_2025_GA_Q8.png",
+          "options": [
+            "3; 4",
+            "4; 3",
+            "3; 3",
+            "3; 2"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Geometry"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        },
+        {
+          "question_id": "GA_Q9",
+          "index": 9,
+          "type": "mcq_single",
+          "question_text": "If a real variable x satisfies 3^(x²) = 27 × 9^x, then the value of (2^(x²))/(2^x)² is:",
+          "image": null,
+          "options": [
+            "2⁻¹",
+            "2⁰",
+            "2³",
+            "2¹⁵"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Algebra"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        },
+        {
+          "question_id": "GA_Q10",
+          "index": 10,
+          "type": "mcq_single",
+          "question_text": "The number of patients per shift (X) consulting Dr. Gita in her past 100 shifts is shown in the figure. If the amount she earns is ₹ 1000(X−0.2), what is the average amount (in ₹) she has earned per shift in the past 100 shifts?",
+          "image": "GATE_DA_2025_GA_Q10.png",
+          "options": [
+            "6,100",
+            "6,300",
+            "6,000",
+            "6,500"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Quantitative Aptitude",
+            "Statistics"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "GA"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "DA",
+      "title": "Data Science & Artificial Intelligence",
+      "order": 2,
+      "questions": [
+        {
+          "question_id": "DA_Q11",
+          "index": 11,
+          "type": "mcq_single",
+          "question_text": "Suppose X and Y are random variables. The conditional expectation of X given Y is denoted by E[X|Y]. Then E[E[X|Y]] equals",
+          "image": null,
+          "options": [
+            "E[X|Y]",
+            "E[X]/E[Y]",
+            "E[X]",
+            "E[Y]"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Conditional Expectation"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q12",
+          "index": 12,
+          "type": "mcq_single",
+          "question_text": "The number of additions and multiplications involved in performing Gaussian elimination on any n × n upper triangular matrix is of the order",
+          "image": null,
+          "options": [
+            "O(n)",
+            "O(n²)",
+            "O(n³)",
+            "O(n⁴)"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Computational Complexity"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q13",
+          "index": 13,
+          "type": "mcq_single",
+          "question_text": "The sum of the elements in each row of A ∈ ℝⁿˣⁿ is 1. If B = A³ − 2A² + A, which one of the following statements is correct (for x ∈ ℝⁿ)?",
+          "image": null,
+          "options": [
+            "The equation Bx = 0 has no solution",
+            "The equation Bx = 0 has exactly two solutions",
+            "The equation Bx = 0 has infinitely many solutions",
+            "The equation Bx = 0 has a unique solution"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Matrix Theory"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q14",
+          "index": 14,
+          "type": "mcq_single",
+          "question_text": "Let f(x) = (eˣ − e⁻ˣ)/2, x ∈ ℝ. Let f⁽ᵏ⁾(a) denote the kth derivative of f evaluated at a. What is the value of f⁽¹⁰⁾(0)? (Note: ! denotes factorial)",
+          "image": null,
+          "options": [
+            "0",
+            "1",
+            "1/10!",
+            "2/10!"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Derivatives"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q15",
+          "index": 15,
+          "type": "mcq_single",
+          "question_text": "Let p and q be any two propositions. Consider the following propositional statements.\nS₁: p → q,\nS₂: ¬p ∧ q,\nS₃: ¬p ∨ q,\nS₄: ¬p ∨ ¬q,\nwhere ∧ denotes conjunction (AND operation), ∨ denotes disjunction (OR operation), and ¬ denotes negation (NOT operation). Which one of the following options is correct? (Note: ≡ denotes logical equivalence)",
+          "image": null,
+          "options": [
+            "S₁ ≡ S₃",
+            "S₂ ≡ S₃",
+            "S₂ ≡ S₄",
+            "S₁ ≡ S₄"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Logic",
+            "Propositional Logic"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q16",
+          "index": 16,
+          "type": "mcq_single",
+          "question_text": "If a relational decomposition is not dependency-preserving, which one of the following relational operators will be executed more frequently in order to maintain the dependencies?",
+          "image": null,
+          "options": [
+            "Selection",
+            "Projection",
+            "Join",
+            "Set union"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Database Systems",
+            "Normalization"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q17",
+          "index": 17,
+          "type": "mcq_single",
+          "question_text": "Consider the following three relations:\nCar (model, year, serial, color)\nMake (maker, model)\nOwn (owner, serial)\nA tuple in Car represents a specific car of a given model, made in a given year, with a serial number and a color. A tuple in Make specifies that a maker company makes cars of a certain model. A tuple in Own specifies that an owner owns the car with a given serial number. Keys are underlined; (owner, serial) together form key for Own. (⋈ denotes natural join)\nπ_owner(Own ⋈ (σ_color='red'(Car ⋈ (σ_maker='ABC'Make))))\nWhich one of the following options describes what the above expression computes?",
+          "image": null,
+          "options": [
+            "All owners of a red car, a car made by ABC, or a red car made by ABC",
+            "All owners of more than one car, where at least one car is red and made by ABC",
+            "All owners of a red car made by ABC",
+            "All red cars made by ABC"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Database Systems",
+            "Relational Algebra"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q18",
+          "index": 18,
+          "type": "mcq_single",
+          "question_text": "Consider a hash table of size 10 with indices {0, 1, ..., 9}, with the hash function h(x) = 3x (mod 10), where linear probing is used to handle collisions. The hash table is initially empty and then the following sequence of keys is inserted into the hash table: 1, 4, 5, 6, 14, 15. The indices where the keys 14 and 15 are stored are, respectively",
+          "image": null,
+          "options": [
+            "2 and 5",
+            "2 and 6",
+            "4 and 5",
+            "4 and 6"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 3
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Data Structures",
+            "Hashing"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q19",
+          "index": 19,
+          "type": "mcq_single",
+          "question_text": "Let X be a continuous random variable whose cumulative distribution function (CDF) F_X(x), for some t, is given as follows:\nF_X(x) = 0 for x ≤ t\nF_X(x) = (x-t)/(4-t) for t ≤ x ≤ 4\nF_X(x) = 1 for x ≥ 4\nIf the median of X is 3, then what is the value of t?",
+          "image": null,
+          "options": [
+            "2",
+            "1",
+            "-1",
+            "0"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Distribution Functions"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q20",
+          "index": 20,
+          "type": "mcq_single",
+          "question_text": "Let X = aZ + b, where Z is a standard normal random variable, and a, b are two unknown constants. It is given that E[X] = 1, E[(X−E[X])Z] = −2, E[(X−E[X])²] = 4, where E[X] denotes the expectation of random variable X. The values of a, b are:",
+          "image": null,
+          "options": [
+            "a = −2, b = 1",
+            "a = 2, b = −1",
+            "a = −2, b = −1",
+            "a = 1, b = 1"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Normal Distribution"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q21",
+          "index": 21,
+          "type": "mcq_single",
+          "question_text": "It is given that P(X ≥ 2) = 0.25 for an exponentially distributed random variable X with E[X] = 1/λ, where E[X] denotes the expectation of X. What is the value of λ? (ln denotes natural logarithm)",
+          "image": null,
+          "options": [
+            "ln 2",
+            "ln 4",
+            "ln 3",
+            "ln 0.25"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Exponential Distribution"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q22",
+          "index": 22,
+          "type": "mcq_single",
+          "question_text": "Consider designing a linear classifier y = sign(f(x; w, b)), f(x; w, b) = w⊤x + b on a dataset D = {(x₁, y₁), (x₂, y₂), ..., (x_N, y_N)}, xᵢ ∈ ℝᵈ, yᵢ ∈ {+1, −1}, i = 1, 2, ..., N. Recall that the sign function outputs +1 if the argument is positive, and −1 if the argument is non-positive. The parameters w and b are updated as per the following training algorithm: w_new = w_old + y_n x_n, b_new = b_old + y_n whenever sign(f(x_n; w_old, b_old)) ≠ y_n. Consider the case (x_n, +1), f(x_n; w_old, b_old) < 0. Then",
+          "image": null,
+          "options": [
+            "f(x_n; w_new, b_new) > f(x_n; w_old, b_old)",
+            "f(x_n; w_new, b_new) < f(x_n; w_old, b_old)",
+            "f(x_n; w_new, b_new) = f(x_n; w_old, b_old)",
+            "y_n f(x_n; w_old, b_old) > 1"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Perceptron"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q23",
+          "index": 23,
+          "type": "mcq_single",
+          "question_text": "Consider the following Python declarations of two lists.\nA=[1,2,3]\nB=[4,5,6]\nWhich one of the following statements results in A = [1, 2, 3, 4, 5, 6]?",
+          "image": null,
+          "options": [
+            "A.extend(B)",
+            "A.append(B)",
+            "A.update(B)",
+            "A.insert(B)"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": -0.33,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Programming",
+            "Python"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q24",
+          "index": 24,
+          "type": "mcq_multi",
+          "question_text": "Consider two functions f : ℝ → ℝ and g : ℝ → (1, ∞). Both functions are differentiable at a point c. Which of the following functions is/are ALWAYS differentiable at c? The symbol · denotes product and the symbol ∘ denotes composition of functions.",
+          "image": null,
+          "options": [
+            "f ± g",
+            "f · g",
+            "f/g",
+            "f ∘ g + g ∘ f"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              1,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Differentiation"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q25",
+          "index": 25,
+          "type": "mcq_multi",
+          "question_text": "Which of the following statements is/are correct?",
+          "image": null,
+          "options": [
+            "ℝⁿ has a unique set of orthonormal basis vectors",
+            "ℝⁿ does not have a unique set of orthonormal basis vectors",
+            "Linearly independent vectors in ℝⁿ are orthonormal",
+            "Orthonormal vectors ℝⁿ are linearly independent"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Vector Spaces"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q26",
+          "index": 26,
+          "type": "mcq_multi",
+          "question_text": "Which of the following statements is/are correct in a Bayesian network?",
+          "image": null,
+          "options": [
+            "Variable elimination is an approximate inference algorithm",
+            "Gibbs sampling is an exact inference algorithm",
+            "Variable elimination is used to determine conditional probabilities",
+            "Rejection sampling is an approximate inference algorithm"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              2,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Bayesian Networks"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q27",
+          "index": 27,
+          "type": "mcq_multi",
+          "question_text": "For which of the following inputs does binary search take time O(log n) in the worst case?",
+          "image": null,
+          "options": [
+            "An array of n integers in any order",
+            "A linked list of n integers in any order",
+            "An array of n integers in increasing order",
+            "A linked list of n integers in increasing order"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Algorithms",
+            "Binary Search"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q28",
+          "index": 28,
+          "type": "mcq_multi",
+          "question_text": "Let A = I_n + xx⊤, where I_n is the n × n identity matrix and x ∈ ℝⁿ, x⊤x = 1. Which of the following options is/are correct?",
+          "image": null,
+          "options": [
+            "Rank of A is n",
+            "A is invertible",
+            "0 is an eigenvalue of A",
+            "A⁻¹ has a negative eigenvalue"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              1
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Matrices"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q29",
+          "index": 29,
+          "type": "mcq_multi",
+          "question_text": "Suppose that insertion sort is applied to the array [1, 3, 5, 7, 9, 11, x, 15, 13] and it takes exactly two swaps to sort the array. Select all possible values of x.",
+          "image": null,
+          "options": [
+            "10",
+            "12",
+            "14",
+            "16"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Algorithms",
+            "Sorting"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q30",
+          "index": 30,
+          "type": "mcq_multi",
+          "question_text": "Let C₁ and C₂ be two sets of objects. Let D(x, y) be a measure of dissimilarity between two objects x and y. Consider the following definitions of dissimilarity between C₁ and C₂.\nDIS-1(C₁, C₂) = max_{x∈C₁, y∈C₂} D(x, y)\nDIS-2(C₁, C₂) = min_{x∈C₁, y∈C₂} D(x, y)\nWhich of the following statements is/are correct?",
+          "image": null,
+          "options": [
+            "Single Linkage Clustering uses DIS-1",
+            "Single Linkage Clustering uses DIS-2",
+            "Complete Linkage Clustering uses DIS-2",
+            "Complete Linkage Clustering uses DIS-1"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Clustering"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q31",
+          "index": 31,
+          "type": "nat",
+          "question_text": "There are three boxes containing white balls and black balls.\nBox-1 contains 2 black and 1 white balls.\nBox-2 contains 1 black and 2 white balls.\nBox-3 contains 3 black and 3 white balls.\nIn a random experiment, one of these boxes is selected, where the probability of choosing Box-1 is 1/2, Box-2 is 1/6, and Box-3 is 1/3. A ball is drawn at random from the selected box. Given that the ball drawn is white, the probability that it is drawn from Box-2 is (Round off to two decimal places)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.25,
+                "max": 0.25
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Bayes Theorem"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q32",
+          "index": 32,
+          "type": "nat",
+          "question_text": "lim_{t→+∞} (√(t² + t) − t) = (Round off to one decimal place)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.5,
+                "max": 0.5
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Limits"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q33",
+          "index": 33,
+          "type": "nat",
+          "question_text": "On a relation named Loan of a bank:\nLoan (loan_number, branch_name, amount)\nL11, Banjara Hills, 90000\nL14, Kondapur, 50000\nL15, SR Nagar, 40000\nL22, SR Nagar, 25000\nL23, Balanagar, 80000\nL25, Kondapur, 70000\nL19, SR Nagar, 65000\n\nthe following SQL query is executed.\nSELECT L1.loan_number\nFROM Loan L1\nWHERE L1.amount > (SELECT MAX(L2.amount) FROM Loan L2 WHERE L2.branch_name = 'SR Nagar');\n\nThe number of rows returned by the query is (Answer in integer)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 3,
+                "max": 3
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Database Systems",
+            "SQL"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q34",
+          "index": 34,
+          "type": "nat",
+          "question_text": "Given data {(−1, 1), (2, −5), (3, 5)} of the form (x, y), we fit a model y = wx using linear least-squares regression. The optimal value of w is (Round off to three decimal places)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.285,
+                "max": 0.287
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Linear Regression"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q35",
+          "index": 35,
+          "type": "nat",
+          "question_text": "The naive Bayes classifier is used to solve a two-class classification problem with class-labels y₁, y₂. Suppose the prior probabilities are P(y₁) = 1/3 and P(y₂) = 2/3. Assuming a discrete feature space with P(x|y₁) = 3/4 and P(x|y₂) = 1/4 for a specific feature vector x. The probability of misclassifying x is (Round off to two decimal places)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0.39,
+                "max": 0.41
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 1,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Naive Bayes"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q36",
+          "index": 36,
+          "type": "mcq_single",
+          "question_text": "Let Y = Z², Z = (X−μ)/σ, where X is a normal random variable with mean μ and variance σ². The variance of Y is",
+          "image": null,
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Chi-squared Distribution"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q37",
+          "index": 37,
+          "type": "mcq_single",
+          "question_text": "Let A ∈ ℝⁿˣⁿ be such that A³ = A. Which one of the following statements is ALWAYS correct?",
+          "image": null,
+          "options": [
+            "A is invertible",
+            "Determinant of A is 0",
+            "The sum of the diagonal elements of A is 1",
+            "A and A² have the same rank"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 3
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Matrix Properties"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q38",
+          "index": 38,
+          "type": "mcq_single",
+          "question_text": "Let {x₁, x₂, ..., x_n} be a set of linearly independent vectors in ℝⁿ. Let the (i, j)-th element of matrix A ∈ ℝⁿˣⁿ be given by A_ij = xᵢ⊤xⱼ, 1 ≤ i, j ≤ n. Which one of the following statements is correct?",
+          "image": null,
+          "options": [
+            "A is invertible",
+            "0 is a singular value of A",
+            "Determinant of A is 0",
+            "z⊤Az = 0 for some non-zero z ∈ ℝⁿ"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Gram Matrix"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q39",
+          "index": 39,
+          "type": "mcq_single",
+          "question_text": "Consider the cumulative distribution function (CDF) of a random variable X:\nF_X(x) = 0 for x ≤ −1\nF_X(x) = (1/4)(x+1)² for −1 ≤ x ≤ 1\nF_X(x) = 1 for x ≥ 1\nThe value of P(X² ≤ 0.25) is",
+          "image": null,
+          "options": [
+            "0.625",
+            "0.25",
+            "0.5",
+            "0.5625"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "CDF"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q40",
+          "index": 40,
+          "type": "mcq_single",
+          "question_text": "A random variable X is said to be distributed as Bernoulli(θ), denoted by X ∼ Bernoulli(θ), if P(X = 1) = θ, P(X = 0) = 1−θ for 0 < θ < 1. Let Y = Σᵢ₌₁³⁰⁰ Xᵢ, where Xᵢ ∼ Bernoulli(θ), i = 1, 2, ..., 300 be independent and identically distributed random variables with θ = 0.25. The value of P(60 ≤ Y ≤ 90), after approximation through Central Limit Theorem, is given by (Recall that φ(x) = (1/√(2π))∫_{−∞}^x e^{−t²/2} dt)",
+          "image": null,
+          "options": [
+            "φ(2) − φ(−2)",
+            "φ(1) − φ(−1)",
+            "φ(3) − φ(−3)",
+            "φ(90) − φ(60)"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Central Limit Theorem"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q41",
+          "index": 41,
+          "type": "mcq_single",
+          "question_text": "For x ∈ ℝ, the floor function is denoted by f(x) = ⌊x⌋ and defined as follows: ⌊x⌋ = k, k ≤ x < k + 1, where k is an integer. Let Y = ⌊X⌋, where X is an exponentially distributed random variable with mean 1/ln 10, where ln denotes natural logarithm. For any positive integer ℓ, one can write the probability of the event Y = ℓ as follows: P(Y = ℓ) = qˡ(1−q). The value of q is",
+          "image": null,
+          "options": [
+            "0.1",
+            "0.01",
+            "0.5",
+            "0.434"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Exponential Distribution"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q42",
+          "index": 42,
+          "type": "mcq_single",
+          "question_text": "Consider the neural network shown in the figure with inputs: u, v; weights: a, b, c, d, e, f; output: y. R denotes the ReLU function, R(x) = max(0, x). Given u = 2, v = 3, a = 1, b = 1, c = 1, d = −1, e = 4, f = −1, which one of the following is correct?",
+          "image": "GATE_DA_2025_DA_Q42.png",
+          "options": [
+            "∂y/∂a = 8, ∂y/∂f = 0",
+            "∂y/∂a = 1, ∂y/∂f = 0",
+            "∂y/∂a = 1, ∂y/∂f = −1",
+            "∂y/∂a = 2, ∂y/∂f = −1"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 0
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Deep Learning",
+            "Neural Networks",
+            "Backpropagation"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q43",
+          "index": 43,
+          "type": "mcq_single",
+          "question_text": "Consider game trees Tree-1 and Tree-2 as shown. The first level is a MAX agent and the second level is a MIN agent. The value in the square node is the output of the utility function. For what ranges of x and y, the right child of node B and the right child of node E will be pruned by alpha-beta pruning algorithm?",
+          "image": "GATE_DA_2025_DA_Q43.png",
+          "options": [
+            "x ∈ [1, ∞) and y ∈ (−∞, 2]",
+            "x ∈ (−∞, 2] and y ∈ (−∞, 5]",
+            "x ∈ (−∞, 2] and y ∈ [2, ∞)",
+            "x ∈ [1, ∞) and y ∈ (−∞, 5]"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Artificial Intelligence",
+            "Alpha-Beta Pruning"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q44",
+          "index": 44,
+          "type": "mcq_single",
+          "question_text": "The state graph shows the action cost along the edges and the heuristic function h associated with each state. Suppose A* algorithm is applied on this state graph using priority queue to store the frontier. In what sequence are the nodes expanded?",
+          "image": "GATE_DA_2025_DA_Q44.png",
+          "options": [
+            "S,A,E,C,B,D,G",
+            "S,E,A,C,B,D,G",
+            "S,A,E,B,C,D,G",
+            "S,A,B,E,C,D,G"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Artificial Intelligence",
+            "A* Search"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q45",
+          "index": 45,
+          "type": "mcq_single",
+          "question_text": "A random experiment consists of throwing 100 fair dice, each die having six faces numbered 1 to 6. An event A represents the set of all outcomes where at least one of the dice shows a 1. Then, P(A) =",
+          "image": null,
+          "options": [
+            "0",
+            "1",
+            "1 − (5/6)¹⁰⁰",
+            "(5/6)¹⁰⁰"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 2
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Complementary Events"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q46",
+          "index": 46,
+          "type": "mcq_single",
+          "question_text": "Consider a fact table in an OLAP application: Facts(D1, D2, val), where D1 and D2 are its dimension attributes and val is a dependent attribute. Suppose attribute D1 takes 3 values and D2 takes 2 values, and all combinations of these values are present in the table Facts. How many tuples are there in the result of the following query?\nSELECT D1, D2, sum(val) FROM Facts GROUP BY CUBE (D1, D2);",
+          "image": null,
+          "options": [
+            "1",
+            "6",
+            "9",
+            "12"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 3
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Database Systems",
+            "OLAP",
+            "Data Warehousing"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q47",
+          "index": 47,
+          "type": "mcq_single",
+          "question_text": "Consider the following Python code snippet.\nA={\"this\",\"that\"}\nB={\"that\",\"other\"}\nC={\"other\",\"this\"}\nwhile \"other\" in C:\n    if \"this\" in A:\n        A,B,C=A-B,B-C,C-A\n    if \"that\" in B:\n        A,B,C=C|A,A|B,B|C\nWhen the above program is executed, at the end, which of the following sets contains \"this\"?",
+          "image": null,
+          "options": [
+            "Only A",
+            "Only B",
+            "Only C",
+            "A, C"
+          ],
+          "correct_answer": {
+            "type": "mcq_single",
+            "correct_option_index": 1
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": -0.67,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Programming",
+            "Python",
+            "Set Operations"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q48",
+          "index": 48,
+          "type": "mcq_multi",
+          "question_text": "Which of the following statements is/are correct about the rectified linear unit (ReLU) activation function defined as ReLU(x) = max(x, 0), where x ∈ ℝ?",
+          "image": null,
+          "options": [
+            "ReLU is continuous everywhere",
+            "ReLU is differentiable everywhere",
+            "ReLU is not differentiable at x = 0",
+            "ReLU(x) = ReLU(ax), for all a ∈ ℝ"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Deep Learning",
+            "Activation Functions"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q49",
+          "index": 49,
+          "type": "mcq_multi",
+          "question_text": "Consider the function f(x) = x³/3 + (7/2)x² + 10x + 133/2, x ∈ [−8, 0]. Which of the following statements is/are correct?",
+          "image": null,
+          "options": [
+            "The maximum value of f is attained at x = −5",
+            "The minimum value of f is attained at x = −2",
+            "The maximum value of f is 133/2",
+            "The minimum value of the derivative of f is attained at x = −7/2"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              2,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Optimization"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q50",
+          "index": 50,
+          "type": "mcq_multi",
+          "question_text": "Let x₁, x₂, x₃, x₄, x₅ be a system of orthonormal vectors in ℝ¹⁰. Consider the matrix A = x₁x₁⊤ + ... + x₅x₅⊤. Which of the following statements is/are correct?",
+          "image": null,
+          "options": [
+            "Singular values of A are also its eigenvalues",
+            "Singular values of A are either 0 or 1",
+            "Determinant of A is 1",
+            "A is invertible"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              1
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Singular Value Decomposition"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q51",
+          "index": 51,
+          "type": "mcq_multi",
+          "question_text": "Let f : ℝ → ℝ be a twice-differentiable function and suppose its second derivative satisfies f''(x) > 0 for all x ∈ ℝ. Which of the following statements is/are ALWAYS correct?",
+          "image": null,
+          "options": [
+            "f has a local minima",
+            "There does not exist x and y, x ≠ y, such that f'(x) = f'(y) = 0",
+            "f has at most one global minimum",
+            "f has at most one local minimum"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              2,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Convex Functions"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q52",
+          "index": 52,
+          "type": "mcq_multi",
+          "question_text": "An n × n matrix A with real entries satisfies the property: ‖Ax‖₂ = ‖x‖₂, for all x ∈ ℝⁿ, where ‖·‖ denotes the Euclidean norm. Which of the following statements is/are ALWAYS correct?",
+          "image": null,
+          "options": [
+            "A must be orthogonal",
+            "A = I, where I denotes the identity matrix, is the only solution",
+            "The eigenvalues of A are either +1 or −1",
+            "A has full rank"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Orthogonal Matrices"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q53",
+          "index": 53,
+          "type": "mcq_multi",
+          "question_text": "Consider designing a linear binary classifier f(x) = sign(w⊤x + b), x ∈ ℝ² on the following training data:\nClass-1: [[2,0], [0,2], [2,2]], Class-2: [[0,0]]\nHard-margin support vector machine (SVM) formulation is solved to obtain w and b. Which of the following options is/are correct?",
+          "image": null,
+          "options": [
+            "w = [4, 4]ᵀ and b = 1",
+            "The number of support vectors is 3",
+            "The margin is √2",
+            "Training accuracy is 98%"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Support Vector Machine"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q54",
+          "index": 54,
+          "type": "mcq_multi",
+          "question_text": "Consider a coin-toss experiment where the probability of head showing up is p. In the ith coin toss, let Xᵢ = 1 if head appears, and Xᵢ = 0 if tail appears. Consider p̂ = (1/n)Σᵢ₌₁ⁿ Xᵢ where n is the total number of independent coin tosses. Which of the following statements is/are correct?",
+          "image": null,
+          "options": [
+            "E[p̂] = p",
+            "E[p̂] = p/n",
+            "As n increases, variance of p̂ decreases",
+            "Variance of p̂ does not depend on n"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Estimation"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q55",
+          "index": 55,
+          "type": "mcq_multi",
+          "question_text": "Consider a two-class problem in ℝᵈ with class labels red and green. Let μ_red and μ_green be the means of the two classes. Given test sample x ∈ ℝᵈ, a classifier calculates the squared Euclidean distance (denoted by ‖·‖²) between x and the means of the two classes and assigns the class label that the sample x is closest to. That is, the classifier computes f(x) = ‖μ_red − x‖² − ‖μ_green − x‖² and assigns the label red to x if f(x) < 0, and green otherwise. Which of the following statements is/are correct?",
+          "image": null,
+          "options": [
+            "The sample x = 0 is assigned the label green if ‖μ_red‖ < ‖μ_green‖",
+            "f is a linear function of x",
+            "f(x) = w⊤x + b, where w and b are functions of μ_red and μ_green",
+            "f is a quadratic polynomial in x"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Machine Learning",
+            "Classification"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q56",
+          "index": 56,
+          "type": "mcq_multi",
+          "question_text": "Consider the following two relations, named Customer and Person, in a database:\nPerson (aadhaar CHAR(12) PRIMARY KEY, name VARCHAR(32));\nCustomer (name VARCHAR(32), email VARCHAR(32) PRIMARY KEY, phone CHAR(10), aadhaar CHAR(12), FOREIGN KEY (aadhaar) REFERENCES Person(aadhaar));\nWhich of the following statements is/are correct?",
+          "image": null,
+          "options": [
+            "aadhaar is a candidate key in the Customer relation",
+            "phone can be NULL in the Customer relation",
+            "aadhaar is a candidate key in the Person relation",
+            "aadhaar can be NULL in the Person relation"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              2
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Database Systems",
+            "SQL",
+            "Keys"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q57",
+          "index": 57,
+          "type": "mcq_multi",
+          "question_text": "Consider a database relation R with attributes ABCDEFG, and having the following functional dependencies:\nA → BCEF\nE → DG\nBC → A\nWhich of the following statements is/are correct?",
+          "image": null,
+          "options": [
+            "A is the only candidate key of R",
+            "A, BC are the candidate keys of R",
+            "A, BC, E are the candidate keys of R",
+            "Relation R is not in Boyce-Codd Normal Form (BCNF)"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              1,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Database Systems",
+            "Functional Dependencies",
+            "Normalization"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q58",
+          "index": 58,
+          "type": "mcq_multi",
+          "question_text": "Let G be a simple, unweighted, and undirected graph. A subset of the vertices and edges of G are shown. It is given that a−b−c−d is a shortest path between a and d; e−f−g−h is a shortest path between e and h; a−f−c−h is a shortest path between a and h. Which of the following is/are NOT the edges of G?",
+          "image": "GATE_DA_2025_DA_Q58.png",
+          "options": [
+            "(b, d)",
+            "(b, g)",
+            "(b, h)",
+            "(e, g)"
+          ],
+          "correct_answer": {
+            "type": "mcq_multi",
+            "correct_option_indices": [
+              0,
+              2,
+              3
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Graph Theory",
+            "Shortest Paths"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q59",
+          "index": 59,
+          "type": "nat",
+          "question_text": "Let f : ℝ → ℝ be such that |f(x) − f(y)| ≤ (x − y)² for all x, y ∈ ℝ. Then f(1) − f(0) = (Answer in integer)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 0,
+                "max": 0
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Calculus",
+            "Lipschitz Continuity"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q60",
+          "index": 60,
+          "type": "nat",
+          "question_text": "Let D = {x⁽¹⁾, ..., x⁽ⁿ⁾} be a dataset of n observations where each x⁽ⁱ⁾ ∈ ℝ¹⁰⁰. It is given that Σᵢ₌₁ⁿ x⁽ⁱ⁾ = 0. The covariance matrix computed from D has eigenvalues λᵢ = 100²⁻ⁱ, 1 ≤ i ≤ 100. Let u ∈ ℝ¹⁰⁰ be the direction of maximum variance with u⊤u = 1. The value of (1/n)Σᵢ₌₁ⁿ (u⊤x⁽ⁱ⁾)² = (Answer in integer)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 100,
+                "max": 100
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Linear Algebra",
+            "Principal Component Analysis"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q61",
+          "index": 61,
+          "type": "nat",
+          "question_text": "A bag contains 5 white balls and 10 black balls. In a random experiment, n balls are drawn from the bag one at a time with replacement. Let S_n denote the total number of black balls drawn in the experiment. The expectation of S_100 denoted by E[S_100] = (Round off to one decimal place)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 66.6,
+                "max": 66.7
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Probability",
+            "Expectation"
+          ],
+          "difficulty": "easy",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q62",
+          "index": 62,
+          "type": "nat",
+          "question_text": "Consider the following tables, Loan and Borrower, of a bank.\nLoan (loan_num, branch_name, amount)\nBorrower (customer_name, loan_num)\nQuery: π_{branch_name, customer_name}(Loan ⋈ Borrower) ÷ π_{branch_name}(Loan)\nwhere ⋈ denotes natural join.\nThe number of tuples returned by the above relational algebra query is (Answer in integer)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 1,
+                "max": 1
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Database Systems",
+            "Relational Algebra",
+            "Division"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q63",
+          "index": 63,
+          "type": "nat",
+          "question_text": "Consider the following Python code snippet.\ndef f(a,b):\n    if (a==0):\n        return b\n    if (a%2==1):\n        return 2*f((a-1)/2,b)\n    return b+f(a-1,b)\nprint(f(15,10))\nThe value printed by the code snippet is (Answer in integer)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 160,
+                "max": 160
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Programming",
+            "Recursion"
+          ],
+          "difficulty": "medium",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q64",
+          "index": 64,
+          "type": "nat",
+          "question_text": "Consider the following pseudocode.\nCreate empty stack S\nSet x=0, flag=0, sum=0\nPush x onto S\nwhile (S is not empty){\n    if (flag equals 0){\n        Set x = x+1\n        Push x onto S}\n    if (x equals 8):\n        Set flag=1\n    if (flag equals 1){\n        x = Pop(S)\n        if (x is odd):\n            Pop(S)\n        Set sum = sum + x}\n}\nOutput sum\nThe value of sum output by a program executing the above pseudocode is (Answer in integer)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 24,
+                "max": 24
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Data Structures",
+            "Stack"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        },
+        {
+          "question_id": "DA_Q65",
+          "index": 65,
+          "type": "nat",
+          "question_text": "Consider a directed graph G = (V, E), where V = {0, 1, 2, ..., 100} and E = {(i, j) : 0 < j − i ≤ 2, for all i, j ∈ V}. Suppose the adjacency list of each vertex is in decreasing order of vertex number, and depth-first search (DFS) is performed at vertex 0. The number of vertices that will be discovered after vertex 50 is (Answer in integer)",
+          "image": null,
+          "options": [],
+          "correct_answer": {
+            "type": "nat",
+            "accepted_ranges": [
+              {
+                "min": 75,
+                "max": 75
+              }
+            ]
+          },
+          "marks_scheme": {
+            "marks_correct": 2,
+            "marks_incorrect": 0,
+            "marks_unattempted": 0
+          },
+          "topics": [
+            "Graph Theory",
+            "DFS"
+          ],
+          "difficulty": "hard",
+          "tags": [
+            "PYQ",
+            "GATE",
+            "2025",
+            "DA"
+          ]
+        }
+      ]
+    }
+  ]
+}
